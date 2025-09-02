@@ -1,4 +1,4 @@
-````markdown
+
 # 🎵 MusicPlaylist Manager
 
 A **Python console-based music player and playlist manager** that allows you to play songs, manage playlists, and experiment with queue-based song organization.

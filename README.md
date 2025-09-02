@@ -88,9 +88,4 @@ MusicPlaylist/
 pip install pygame
 ```
 
----
-
-
-
-````
 
